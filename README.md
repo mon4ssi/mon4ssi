@@ -27,18 +27,6 @@ Here are some ideas to get you started:
 
 I am Monassi, a motivated individual with a deep understanding of various programming languages and development tools. I'm a senior full-stack engineer, creative and self-taught programmer specializing in backend development. I always use my skills for the benefit of the projects I am involved in while continuing to hone my skills through continuous learning using different resources.
 
-## GitHub Stats
-
-<a href="https://github.com/mon4ssi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=mon4ssi&show_icons=true&theme=algolia" alt="GitHub Stats" />
-</a>
-
-<a href="https://github.com/mon4ssi">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mon4ssi&theme=algolia" alt="GitHub Streak" />
-</a>
-
-<br>
-
 ## Skills
 
 ![](https://img.shields.io/badge/Code-Php-blue?style=flat&logo=php&logoColor=white&color=1C7ED1)
